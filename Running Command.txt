@@ -1,0 +1,11 @@
+Task : Running Commands : 
+
+node filename.js help
+node filename.js tree
+node filename.js organize "path";
+node filename.js tree "path"
+
+Global : 
+Vivek help
+Vivek tree
+Vivek organize
